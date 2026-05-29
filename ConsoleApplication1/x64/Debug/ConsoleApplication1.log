@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\redmi\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(153,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\redmi\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(191,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\redmi\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(229,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\redmi\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(326,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\redmi\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
